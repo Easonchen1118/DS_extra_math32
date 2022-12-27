@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Armstrong數
+//Armstrong數https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6941
 int main(){
     int num1, num2, num3;
     scanf("%1d%1d%1d", &num1, &num2, &num3);
